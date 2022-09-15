@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @0tti99
-- 👀 I’m interested in gaming and sports
-- 🌱 I’m currently learning in college
-- 💞️ I’m looking to collaborate on nothing lol
-- 📫 How to reach me: thats the neat part, you can't
+-  Hi, I’m Sebastian 
+-  I’m interested in gaming, sports and electronics  
+-  I’m currently learning in college
+-  How to reach me: send an e-Mail to sebastian.ot@t-online.de
 
 <!---
 0tti99/0tti99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
